@@ -1,6 +1,4 @@
-data/bronze/
-data/silver/
-data/checkpoints/
+
 
 *.pyc
 *.log
