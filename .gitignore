@@ -1,0 +1,11 @@
+data/bronze/
+data/silver/
+data/checkpoints/
+
+*.pyc
+*.log
+
+.sparkStaging
+.metastore_db
+
+.DS_Store
