@@ -9,6 +9,24 @@ This project demonstrates a near real-time data pipeline using:
 - Bronze-Silver Architecture
 - Streamlit Dashboard
 
+## Folder Structure
+
+Near-Real-Time-Pipeline/
+
+│
+├── data/
+│   ├── raw_events/
+│   ├── bronze/
+│   ├── silver/
+│   └── checkpoints/
+│
+├── event_generator.py
+├── spark_bronze.py
+├── spark_silver.py
+├── dashboard.py
+│
+├── requirements.txt
+└── README.md
 ## Architecture
 
 Raw Events
